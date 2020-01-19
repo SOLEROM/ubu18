@@ -1,5 +1,23 @@
 # my extensions
 
+list
+
+```
+~/.local/share/gnome-shell/extensions/
+==============================================================
+├── apps-menu@gnome-shell-extensions.gcampax.github.com
+├── clipboard-indicator@tudmotu.com
+├── gsconnect@andyholmes.github.io
+├── loadavg@gnome.stefan-kent.com
+├── openweather-extension@jenslody.de
+├── system-monitor@paradoxxx.zero.gmail.com
+├── Vitals@CoreCoding.com
+└── workspace-grid@mathematical.coffee.gmail.com
+
+
+
+```
+
 
 ## wrsp grid
 
