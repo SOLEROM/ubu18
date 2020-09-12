@@ -1,3 +1,18 @@
 # Style
 
 * https://regolith-linux.org/docs/howto/stage-configs/
+
+```
+mkdir -p ~/.config/regolith/i3
+cp /etc/regolith/i3/config ~/.config/regolith/i3/config
+```
+
+
+## ??
+
+```
+cp /etc/regolith/styles/root ~/.Xresources-regolith
+
+cp -ar /etc/regolith/styles/ ~/.config/regolith/
+
+```
