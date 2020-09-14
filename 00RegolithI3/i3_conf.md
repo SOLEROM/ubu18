@@ -36,6 +36,15 @@ bindsym $alt+Tab focus right
 
 ```
 
+## folow focous with mouse
+
+```
+/home/solov/.config/regolith/i3/config
+======================================
+set_from_resource $i3-wm.gaps.focus_follows_mouse i3-wm.gaps.focus_follows_mouse yes
+```
+
+
 ## workspaces title and icons
 
 * choose icon

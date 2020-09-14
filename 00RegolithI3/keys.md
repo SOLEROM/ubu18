@@ -1,8 +1,10 @@
-#keys
+# keys
 
 * https://github.com/regolith-linux/regolith-desktop/wiki/Keybindings
 
 ## def
+
+```
 Focused Window Fullscreen Toggle 	⊞ Win+f
 Layout Toggle 
 	(tabbed, horizontal, vertical) 	⊞ Win+t
@@ -33,10 +35,12 @@ show notifactions:	win + n
 
 Navigate by winName:	win+ctrl+space
 
+```
 
+## changes
 
-## cahnges
+```
 lang:		Alt + z
 
-
+```
 
