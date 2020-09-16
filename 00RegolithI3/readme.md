@@ -16,7 +16,10 @@ sudo apt install i3xrocks-net-traffic i3xrocks-cpu-usage i3xrocks-time i3xrocks-
 ## config features
 
 * [i3_conf](i3_conf.md)
-* [wifiName](wifiName.md)
+
+## bar configs:
+* [wifiName](barChanges/wifiName.md)
+* [callender](barChanges/callender.md)
 
 
 ## config colors
