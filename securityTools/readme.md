@@ -1,3 +1,0 @@
-# secTools
-
-* [monitorSSH](monitorSSH.md)
