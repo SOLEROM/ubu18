@@ -1,5 +1,6 @@
 # this file goes in ~
 
+home "/home/solov"
 
 background yes
 use_xft yes
@@ -10,6 +11,7 @@ total_run_times 0
 own_window yes
 own_window_transparent yes
 own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+own_window_type override
 double_buffer yes
 draw_shades no
 draw_outline no
@@ -85,7 +87,7 @@ ${alignr}$font ${color1}[${color} ${swapbar 5,120} ${color1}]${color} -─┘   
 ${alignr}$font ${color1}[${color} ${fs_used /}/${fs_size /} ${color1}]${color} root -─┤    │  
 ${alignr}$font ${color1}[${color} ${fs_bar 5,120 /} ${color1}]${color} -─┘    │    │  
 ${alignr}$font ${color1}[${color} ${fs_used /home}/${fs_size /home} ${color1}]${color} home -─┤    │  
-${alignr}$font ${color1}[${color} ${fs_bar 5,120 /home/$USER/} ${color1}]${color} -─┘    │    │  
+${alignr}$font ${color1}[${color} ${fs_bar 5,120 ${home}} ${color1}]${color} -─┘    │    │  
 #${alignr}$font ${color1}[${color} ${fs_used /usr/local}/${fs_size /usr/local} ${color1}]${color} local -─┘    │  
 #${alignr}$font ${color1}[${color} ${fs_bar 5,120 /home/Container/} ${color1}]${color} -─┘         │  
 ${alignr}$font │  
